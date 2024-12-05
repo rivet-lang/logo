@@ -1,1 +1,1 @@
-# The official logo of the Rivet programming language
+ The official logo of the Rivet programming language
